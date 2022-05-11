@@ -1,6 +1,6 @@
 <h2> Hi, I'm Léo!</h2> 
 <p>CEO of <em><a href="https://onyos.fr">onyOS</a></br>
-</em></p>
+</em> and Creator of Intranet Cuisinella Villennes</p>
 - 👀 I’m interested in WebDev<br>
 - 🌱 I’m currently learning JavaScript and PHP<br>
 - 🖥 I work with a Mac.<br>
@@ -29,6 +29,11 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="48" height="
 " alt="Sass" />
       <br>Sass
+    </td>
+    <td align="center" width="96">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2880px-Webysther_20160423_-_Elephpant.svg.png" width="48" height="
+" alt="PHP" />
+      <br>PHP 8.1
     </td>
   </tr>
   <tr>
