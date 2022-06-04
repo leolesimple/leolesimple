@@ -1,5 +1,4 @@
 <h2> Hi, I'm Léo!</h2> 
-<p>CEO of <em><a href="https://onyos.fr">onyOS</a></br>
 </em> and Creator of Intranet Cuisinella Villennes</p>
 - 👀 I’m interested in WebDev<br>
 - 🌱 I’m currently learning JavaScript and PHP<br>
