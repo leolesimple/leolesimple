@@ -1,35 +1,39 @@
 <h2> Hi, I'm Léo!</h2> 
-</em> and Creator of Intranet Cuisinella Villennes</p>
-- 👀 I’m interested in WebDev<br>
-- 🌱 I’m currently learning JavaScript and PHP<br>
-- 🖥 I work with a Mac.<br>
+</em>Creator of Intranet Cuisinella Villennes</p>
+- Web Developer Junior (since 2021)<br>
+- I’m currently learning JavaScript ES2022 and PHP 8.1<br>
+- I work with a Mac Mini M1 & MacBook Air M1 <br>
 
 <h3>Languages and Framework, that I use !</h3>
-<table>
+<table style="width=100%">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="auto">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png" width="48" height="" alt="HTML" />
       <br>HTML
     </td>
-    <td align="center" width="96">
+    <td align="center" width="auto">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/416px-Markdown-mark.svg.png?20190322184628" width="48" height="" alt="Markdown" />
+      <br>Markdown
+    </td>
+    <td align="center" width="auto">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="48" height="" alt="CSS" />
       <br>CSS
     </td>
-       <td align="center" width="96">
+       <td align="center" width="auto">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="48" height="" alt="Bootstrap" />
+    <td align="center" width="auto">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="48" height="" alt="Bootstrap 5"/>
       </a>
-      <br>Bootstrap
+      <br>Bootstrap 5
     </td>
-    <td align="center" width="96">
+    <td align="center" width="auto">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="48" height="
 " alt="Sass" />
       <br>Sass
     </td>
-    <td align="center" width="96">
+    <td align="center" width="auto">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2880px-Webysther_20160423_-_Elephpant.svg.png" width="48" height="
 " alt="PHP" />
       <br>PHP 8.1
@@ -39,6 +43,43 @@
   </tr>
 </table>
 
+<table style="width=100%">
+  <tr>
+    <td align="center" width="auto">
+        <img src="https://github.com/LeoL456/LeoL456/blob/main/Swift_logo_color.svg" width="48" height="" alt="Swift" />
+      <br>Swift
+    </td>
+    <td align="center" width="auto">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width="48" height="" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="auto">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="48" height="" alt="CSS" />
+      <br>CSS
+    </td>
+       <td align="center" width="auto">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="auto">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="48" height="" alt="Bootstrap 5"/>
+      </a>
+      <br>Bootstrap 5
+    </td>
+    <td align="center" width="auto">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="48" height="
+" alt="Sass" />
+      <br>Sass
+    </td>
+    <td align="center" width="auto">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2880px-Webysther_20160423_-_Elephpant.svg.png" width="48" height="
+" alt="PHP" />
+      <br>PHP 8.1
+    </td>
+  </tr>
+  <tr>
+  </tr>
+</table>
 
 <!---
 LeoL456/LeoL456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
