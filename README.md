@@ -30,7 +30,7 @@
     </td>
     <td align="center" width="auto">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2880px-Webysther_20160423_-_Elephpant.svg.png" width="48" height="" alt="PHP" />
-      <br>PHP 8.1
+      <br>PHP 8.2
     </td>
     <td align="center" width="auto">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width="48" height="" alt="Python" />
