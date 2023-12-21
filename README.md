@@ -18,7 +18,12 @@
     <td align="center" width="auto">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="48" height="" alt="Bootstrap 5"/>
       </a>
-      <br>Bootstrap 5
+      <br>Bootstrap
+    </td>
+    <td align="center" width="auto">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" width="48" height="" alt="Bootstrap 5"/>
+      </a>
+      <br>Tailwind CSS
     </td>
     <td align="center" width="auto">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="48" height="" alt="Sass" />
@@ -30,7 +35,7 @@
     </td>
     <td align="center" width="auto">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2880px-Webysther_20160423_-_Elephpant.svg.png" width="48" height="" alt="PHP" />
-      <br>PHP 8.2
+      <br>PHP 8
     </td>
     <td align="center" width="auto">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width="48" height="" alt="Python" />
