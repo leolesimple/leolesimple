@@ -1,7 +1,7 @@
 <h2> Hi, I'm Léo!</h2> 
 
 - Web Developer Junior (since 2021)<br>
-- I’m currently learning JavaScript ES2022<br>
+- I’m currently learning Swift & PHP<br>
 - I work with a  Mac Mini M1 &  MacBook Air M1<br>
 
 <h3>Acquired :</h3>
@@ -50,6 +50,10 @@
 <table>
   <tr>
     <td align="center" width="auto">
+        <img src="https://github.com/LeoL456/LeoL456/blob/main/Swift_logo_color.svg" width="48" height="" alt="Swift" />
+      <br>Swift
+    </td>
+    <td align="center" width="auto">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/langfr-2560px-React-icon.svg.png" width="48" height="" alt="React" />
       <br>React
     </td>
@@ -57,10 +61,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/langfr-2560px-Angular_full_color_logo.svg.png" width="48" height="48" alt="Angular" />
       <br>Angular
     </td>
-        <td align="center" width="auto">
-        <img src="https://github.com/LeoL456/LeoL456/blob/main/Swift_logo_color.svg" width="48" height="" alt="Swift" />
-      <br>Swift
-    </td>
+
   </tr>
   <tr>
   </tr>
