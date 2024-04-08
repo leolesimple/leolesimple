@@ -1,10 +1,15 @@
-<h2> Hi, I'm Léo!</h2> 
+## Hi, I'm Léo!
 
-- Web Developer Junior (since 2021)<br>
-- I’m currently learning Swift & PHP<br>
-- I work with a  Mac Mini M1 &  MacBook Air M1<br>
+> [!CAUTION] 
+> 
+> - En raison de la procédure Parcoursup, les repos de ce compte sont mis en privé pour quelques temps.
+> 
 
-<h3>Acquired :</h3>
+- Web Developer Junior (depuis 2021)<br>
+- Développe des sites web en JS et/ou PHP.<br>
+-  Mac Mini M1 &  MacBook Air M3<br>
+
+<h3>Acquis :</h3>
 <table style="width=100%">
   <tr>
     <td align="center" width="auto">
@@ -46,7 +51,7 @@
   </tr>
 </table>
 
-<h3>Next achievement :</h3>
+<h3>À apprendre :</h3>
 <table>
   <tr>
     <td align="center" width="auto">
