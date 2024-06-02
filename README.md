@@ -3,6 +3,7 @@
 > [!CAUTION] 
 > 
 > - En raison de la procédure Parcoursup, les repos de ce compte sont mis en privé pour quelques temps.
+> - **MàJ :** Les repos seront de nouveaux disponibles le 11 juillet 2024.
 > 
 
 - Web Developer Junior (depuis 2021)<br>
