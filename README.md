@@ -1,11 +1,5 @@
 ## Hi, I'm Léo!
 
-> [!CAUTION] 
-> 
-> - En raison de la procédure Parcoursup, les repos de ce compte sont mis en privé pour quelques temps.
-> - **MàJ :** Les repos seront de nouveaux disponibles le 11 juillet 2024.
-> 
-
 - Web Developer Junior (depuis 2021)<br>
 - Développe des sites web en JS et/ou PHP.<br>
 -  Mac Mini M1 &  MacBook Air M3<br>
