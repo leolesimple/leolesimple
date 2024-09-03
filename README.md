@@ -1,73 +1,24 @@
-## Hi, I'm Léo!
+# 💫 About Me:
+🔭 I’m currently studying at IUT Gustave Eiffel (Champs sur Marne)<br>🌱 I’m currently learning Web Development and Design<br>💬 Ask me about Web Dev or UI/UX Design<br>⚡ Fun fact, i’m an Apple Fan
 
-- Web Developer Junior (depuis 2021)<br>
-- Développe des sites web en JS et/ou PHP.<br>
--  Mac Mini M1 &  MacBook Air M3<br>
 
-<h3>Acquis :</h3>
-<table style="width=100%">
-  <tr>
-    <td align="center" width="auto">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png" width="48" height="" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="auto">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="48" height="" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="auto">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="48" height="" alt="Bootstrap 5"/>
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="auto">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" width="48" height="" alt="Bootstrap 5"/>
-      </a>
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="auto">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="48" height="" alt="Sass" />
-      <br>Sass
-    </td>
-    <td align="center" width="auto">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="auto">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2880px-Webysther_20160423_-_Elephpant.svg.png" width="48" height="" alt="PHP" />
-      <br>PHP 8
-    </td>
-    <td align="center" width="auto">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width="48" height="" alt="Python" />
-      <br>Python
-    </td>
-  </tr>
-  <tr>
-  </tr>
-</table>
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/leolesimple) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leo_lesimple) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leolesimple) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@leolesimple) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/leolesimple) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__Le__o__) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@leolesimple) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/leolesimple) 
 
-<h3>À apprendre :</h3>
-<table>
-  <tr>
-    <td align="center" width="auto">
-        <img src="https://github.com/LeoL456/LeoL456/blob/main/Swift_logo_color.svg" width="48" height="" alt="Swift" />
-      <br>Swift
-    </td>
-    <td align="center" width="auto">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/langfr-2560px-React-icon.svg.png" width="48" height="" alt="React" />
-      <br>React
-    </td>
-       <td align="center" width="auto">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/langfr-2560px-Angular_full_color_logo.svg.png" width="48" height="48" alt="Angular" />
-      <br>Angular
-    </td>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=leolesimple&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=leolesimple&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leolesimple&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-  </tr>
-  <tr>
-  </tr>
-</table>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=leolesimple&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-<!---
-LeoL456/LeoL456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=leolesimple&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=leolesimple&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
