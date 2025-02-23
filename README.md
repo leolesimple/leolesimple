@@ -1,9 +1,30 @@
-# 💫 About Me:
-🔭 I’m currently studying at IUT Gustave Eiffel (Champs sur Marne)<br>🌱 I’m currently learning Web Development and Design<br>💬 Ask me about Web Dev or UI/UX Design<br>⚡ Fun fact, i’m an Apple Fan
+## 👋 Hey, I’m **Léo Lesimple**!  
 
+🚀 **MMI student @ IUT de Marne-la-Vallée (Champs-sur-Marne)**  
+🎨 **Passionate about Web Development & UI/UX Design**  
+🍏 **Apple enthusiast – If it’s sleek, intuitive, and well-designed, I’m into it.**  
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/leolesimple)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leo_lesimple)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leolesimple)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@leolesimple)
+💡 **What I do:**  
+- Building **modern, functional, and user-friendly web experiences**  
+- Designing **intuitive UIs** that enhance usability and accessibility  
+- Exploring **mobility solutions** for Île-de-France with **[InfoStation (👀 available soon)](https://infostation.fr)**, a project designed to make public transit data more accessible and useful.  
+
+💻 **Bridging technology and design**  
+I’m passionate about crafting digital experiences that aren’t just visually appealing but also **practical and intuitive**. Whether it’s a **high-performance website, a sleek UI, or a mobility platform**, I love blending **design, data, and code** to solve real-world problems. I enjoy working with **modern web technologies** to build seamless and efficient solutions.  
+
+🎨 **Design & Adobe Creative Suite**  
+While my main focus is on **UI/UX with Figma**, I also have experience with the **Adobe Creative Suite** (*Photoshop, Illustrator, After Effects, InDesign, Premiere Pro*). From **graphic design to motion graphics and editorial layouts**, I use these tools to enhance my projects—though I wouldn’t call myself a full-fledged Adobe expert.  
+
+🚆 **Fascinated by French trains & urban transit**  
+MI 09, Z 58000, MF 01… If it’s innovative, efficient, and shaping the future of mobility, I’m all in. The complexity of these networks, moving **millions of people daily at insane frequencies**, is just as fascinating as the trains themselves. Understanding how everything works behind the scenes? That’s the kind of challenge I love—especially when **tech, data, and design** come into play.  
+
+💡 **Soft skills:**  
+💭 **Curious & detail-oriented** – Always diving deep and refining every aspect.  
+🛠️ **Independent & structured** – I handle projects with efficiency and precision.  
+🎤 **Comfortable speaking & presenting** – Explaining ideas and pitching projects? I’m on it.  
+
+💬 **Let’s talk:**  
+Want to chat about **Web Dev, UI/UX, mobility, or design**? Always up for a discussion!  
+
+🔗 **Find me at** [leolesimple.fr](https://leolesimple.fr)  
+📩 **Contact me:** [leo@leolesimple.com](mailto:leo@leolesimple.com)  
