@@ -16,7 +16,7 @@ I’m passionate about crafting digital experiences that aren’t just visually 
 While my main focus is on **UI/UX with Figma**, I also have experience with the **Adobe Creative Suite** (*Photoshop, Illustrator, After Effects, InDesign, Premiere Pro*). From **graphic design to motion graphics and editorial layouts**, I use these tools to enhance my projects—though I wouldn’t call myself a full-fledged Adobe expert.  
 
 🚆 **Fascinated by French trains & urban transit**  
-MI 09, Z 58000, MF 01… If it’s innovative, efficient, and shaping the future of mobility, I’m all in. The complexity of these networks, moving **millions of people daily at insane frequencies**, is just as fascinating as the trains themselves. Understanding how everything works behind the scenes? That’s the kind of challenge I love—especially when **tech, data, and design** come into play.  
+MI 09, Z 58000, MP 14… If it’s innovative, efficient, and shaping the future of mobility, I’m all in. The complexity of these networks, moving **millions of people daily at insane frequencies**, is just as fascinating as the trains themselves. Understanding how everything works behind the scenes? That’s the kind of challenge I love—especially when **tech, data, and design** come into play.  
 
 💡 **Soft skills:**  
 💭 **Curious & detail-oriented** – Always diving deep and refining every aspect.  
