@@ -7,7 +7,7 @@
 💡 **What I do:**  
 - Building **modern, functional, and user-friendly web experiences**  
 - Designing **intuitive UIs** that enhance usability and accessibility  
-- Exploring **mobility solutions** for Île-de-France with **[InfoStation (👀 available soon)](https://infostation.fr)**, a project designed to make public transit data more accessible and useful.  
+- Exploring **mobility solutions** for Île-de-France with **[InfoStation](https://infostation.fr)**, a project designed to make public transit data more accessible and useful.  
 
 💻 **Bridging technology and design**  
 I’m passionate about crafting digital experiences that aren’t just visually appealing but also **practical and intuitive**. Whether it’s a **high-performance website, a sleek UI, or a mobility platform**, I love blending **design, data, and code** to solve real-world problems. I enjoy working with **modern web technologies** to build seamless and efficient solutions.  
