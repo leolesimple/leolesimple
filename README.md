@@ -38,4 +38,6 @@
 ---
 
 ### 📊 Stats GitHub
-![Léo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoLesimple&show_icons=true&theme=tokyonight)
+![Léo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoLesimple&show_icons=true&theme=slateorange)
+
+![leolesimple's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leolesimple&theme=slateorange&show_icons=true&hide_border=false&layout=compact)
