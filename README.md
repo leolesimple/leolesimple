@@ -33,7 +33,7 @@
 
 ### 📫 Me contacter
 - 🌐 [leolesimple.fr](https://leolesimple.fr)  
-- ✉️ [leo@leolesimple.com](mailto:leo@leolesimple.com)
+- ✉️ [leolesimple@icloud.com](mailto:leolesimple@icloud.com)
 
 ---
 
