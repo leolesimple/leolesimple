@@ -34,7 +34,7 @@
 
 ### 📫 Me contacter
 - 🌐 [leolesimple.fr](https://leolesimple.fr)  
-- ✉️ [leolesimple@icloud.com](mailto:leolesimple@icloud.com)
+- ✉️ 
 
 ---
 
